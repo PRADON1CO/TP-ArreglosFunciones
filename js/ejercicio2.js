@@ -1,4 +1,4 @@
-let ciudades = [];
+const ciudades = [];
 let ciudad;
 
 do{
